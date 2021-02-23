@@ -1,34 +1,57 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+<h3>#rumoaoproximonivel</h3>
 
-First, run the development server:
+<div align="center">
+   <img src="src/img/wallpaper.png" alt="Wallpaper" width="1500px" height="1500px">
+</div>
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+<!-- ******************************* Título do Projeto ****************************************  -->
+<h1 align="center" > Next Level Week 04 - Projeto Moveit</h1>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<!-- *******************************  Status do Projeto  **************************************  -->
+<p align="center">
+   Status do Projeto :  🚧 Projeto em Construção  🚧
+</p>
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+<br/>
+<!-- ************************************  Badges  ********************************************  -->
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/tosantos1/rocketseat-nlw4-moveit?color=342680">
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+  <a href="https://rocketseat.com.br">
+    <img alt="Made by Tiago Oliveira" src="https://img.shields.io/badge/made%20by-Tiago Oliveira-342680">
+  </a>
 
-## Learn More
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tosantos1/rocketseat-nlw4-moveit?color=342680">
 
-To learn more about Next.js, take a look at the following resources:
+</p>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<!-- ******************************* Ancoras **************************************************  -->
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+<p align="center">
+  <a href="#sobre">Sobre o Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#cronograma">Cronograma do Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#tecnologias">Tecnologias e Bibliotecas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#"></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#"></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
 
-## Deploy on Vercel
+<!-- ******************************* Sobre ***************************************************  -->
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+<h2 id="sobre"> 🚀 Sobre o Projeto </h2>
+Em breve o resultado final do projeto.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<h2 id="cronograma"> 📆 Cronograma do Projeto</h2>
+<div align="center">
+   <img src="src/img/cronograma.png" alt="Cronograma">
+</div>
+
+
+<h2 id="tecnologias"> 🧰 Tecnologias e Bibliotecas</h2>
+
+* [HTML](https://www.w3schools.com/html/) 
+* [CSS](https://www.w3schools.com/css/) 
+* [JavaScript](https://www.w3schools.com/js/DEFAULT.asp)
+* [TypeScript](https://www.typescriptlang.org/) - Linguagem baseada em JavaScript que adicionar definições de tipo estático.
+* [ReactJS](https://pt-br.reactjs.org/) - Biblioteca JavaScript para criação de Interfaces.   
