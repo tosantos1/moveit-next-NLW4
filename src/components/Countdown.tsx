@@ -30,7 +30,10 @@ export function Countdown(){
             countdownTimeout = setTimeout(() => {
                 setTime(time - 1);
             }, 1000)
-        } else if ()
+        } else if (isActive && time == 0){
+            setHashFinished(true);
+            setIsActive(false);
+        }
     }, [isActive, time])
 
     return (
