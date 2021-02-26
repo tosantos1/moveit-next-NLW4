@@ -1,6 +1,7 @@
 
 <h4>#rumoaoproximonivel - Dia 1</h4>
 <h4>#jornadainfinita - Dia 2</h4>
+<h4>#focopraticagrupo - Dia 3</h4>
 
 <div align="center">
    <img src="src/img/wallpaper.png" alt="Wallpaper" width="1500px" height="1500px">
