@@ -1,9 +1,3 @@
-
-<h4>#rumoaoproximonivel - Dia 1</h4>
-<h4>#jornadainfinita - Dia 2</h4>
-<h4>#focopraticagrupo - Dia 3</h4>
-<h4>#neverstoplearning - Dia 4</h4>
-
 <div align="center">
    <img src="src/img/wallpaper.png" alt="Wallpaper" width="1500px" height="1500px">
 </div>
@@ -13,7 +7,7 @@
 
 <!-- *******************************  Status do Projeto  **************************************  -->
 <p align="center">
-   Status do Projeto :  🚧 Projeto em Construção  🚧
+   Status do Projeto :  🚧 Finalizado  🚧
 </p>
 
 <br/>
@@ -36,19 +30,42 @@
   <a href="#sobre">Sobre o Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#cronograma">Cronograma do Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#tecnologias">Tecnologias e Bibliotecas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#"></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#"></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  
+  
 </p>
 
 <!-- ******************************* Sobre ***************************************************  -->
 
 <h2 id="sobre"> 🚀 Sobre o Projeto </h2>
-Em breve o resultado final do projeto.
+Controle o seu tempo, seja mais produtivo e cuide da sua saúde. O <a href="https://gomover.vercel.app/">GoMover</a> foi desenvolvido para o gerenciamento do tempo, como na técnica do pomodoro, dividindo o trabalho em períodos de 25 minutos. Depois desse tempo, ele libera um desafio, que é um alongamento para o corpo ou exercícios para os olhos. Cada desafio tem seus pontos de xp e, acumulando os pontos você sobe de nível.
+
+O layout do move.it original está disponível <a href="https://www.figma.com/file/mZJUCQnkDZ2Wq67qaONESG/Move.it-2.0-Copy?node-id=160%3A2761">aqui</a> .
 
 <h2 id="cronograma"> 📆 Cronograma do Projeto</h2>
 <div align="center">
    <img src="src/img/cronograma.png" alt="Cronograma">
 </div>
+
+<h2 id="usage" > 👷 Usage </h2>
+
+Install git, node and yarn (or npm).
+
+```bash
+# Clone Repository
+$ git clone https://github.com/anabrtorres/timeup-nlw4.git
+
+# Go to server folder
+$ cd timeup
+
+# Install Dependencies
+$ yarn
+
+# Run Aplication
+$ yarn dev
+
+# Access localhost
+http://localhost:3000
+```
 
 
 <h2 id="tecnologias"> 🧰 Tecnologias e Bibliotecas</h2>
@@ -57,4 +74,10 @@ Em breve o resultado final do projeto.
 * [CSS](https://www.w3schools.com/css/) 
 * [JavaScript](https://www.w3schools.com/js/DEFAULT.asp)
 * [TypeScript](https://www.typescriptlang.org/) - Linguagem baseada em JavaScript que adicionar definições de tipo estático.
-* [ReactJS](https://pt-br.reactjs.org/) - Biblioteca JavaScript para criação de Interfaces.   
+* [ReactJS](https://pt-br.reactjs.org/) - Biblioteca JavaScript para criação de Interfaces.  
+* [Next.js](https://nextjs.org/)
+
+
+---
+
+<p align="center">Criado com 💜 por Tiago Oliveira</p>
