@@ -56,7 +56,9 @@ export function ChallengeBox() {
                     </p>
                 </div>
             )}
+            
 
         </div>
+        
     )
 }

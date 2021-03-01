@@ -4,11 +4,12 @@
     font-family: Rajdhani;
     font-weight: 600;
     color: var(--title);
+    
 }
 
 .countdownContainer > div {
     flex: 1;
-
+    
     display: flex;
     align-items: center;
     justify-content: space-evenly;
@@ -22,6 +23,7 @@
 
 .countdownContainer > div span {
     flex: 1;
+    
 }
 
 .countdownContainer > div span:first-child{
@@ -34,6 +36,7 @@
 .countdownContainer >  span {
     font-size: 6.25rem;
     margin: 0 0.5rem;
+    
 }
 
 .countdownButton {
