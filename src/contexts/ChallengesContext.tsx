@@ -45,7 +45,7 @@ export function ChallengesProvider(
     const [activeChallenge, setActiveChallenge] = useState(null)
     const [isLevelUpModalOpen, setIsLevelUpModalOpen] = useState(false)
 
-    const experienceToNextLevel = Math.pow((level + 1) + 4, 2)
+    const experienceToNextLevel = Math.pow((level + 1) * 4, 2)
 
     useEffect(() => {
         Notification.requestPermission();
