@@ -37,7 +37,7 @@
 <!-- ******************************* Sobre ***************************************************  -->
 
 <h2 id="sobre"> 🚀 Sobre o Projeto </h2>
-Controle o seu tempo, seja mais produtivo e cuide da sua saúde. O <a href="https://gomover.vercel.app/">GoMover</a> foi desenvolvido para o gerenciamento do tempo, como na técnica do pomodoro, dividindo o trabalho em períodos de 25 minutos. Depois desse tempo, ele libera um desafio, que é um alongamento para o corpo ou exercícios para os olhos. Cada desafio tem seus pontos de xp e, acumulando os pontos você sobe de nível.
+Controle o seu tempo, seja mais produtivo e cuide da sua saúde. O <a href="https://gomover.vercel.app/">GoMover</a> foi desenvolvido para o gerenciamento do tempo, como na técnica do pomodoro, dividindo o trabalho em períodos de 25 minutos. Depois desse tempo, ele libera um desafio, que é um alongamento para o corpo ou exercícios para os olhos.
 
 O layout do move.it original está disponível <a href="https://www.figma.com/file/mZJUCQnkDZ2Wq67qaONESG/Move.it-2.0-Copy?node-id=160%3A2761">aqui</a> .
 
@@ -46,13 +46,13 @@ O layout do move.it original está disponível <a href="https://www.figma.com/fi
    <img src="src/img/cronograma.png" alt="Cronograma">
 </div>
 
-<h2 id="usage" > 👷 Usage </h2>
+<h2 id="usage" > 👷 Uso </h2>
 
 Install git, node and yarn (or npm).
 
 ```bash
 # Clone Repository
-$ git clone https://github.com/anabrtorres/timeup-nlw4.git
+$ git clone https://github.com/tosantos1/moveit-next-NLW4
 
 # Go to server folder
 $ cd timeup
